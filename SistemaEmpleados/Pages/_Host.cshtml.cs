@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace SistemaEmpleados.Pages
 {
-    public class IndexModel : PageModel
+    public class _HostModel : PageModel
     {
         public void OnGet()
         {
